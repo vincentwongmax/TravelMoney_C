@@ -18,9 +18,5 @@
 1. 介面美化
 2. 修復BUG
 
-# 使用方法
-### mysql
-### xampp 
-
 最後版本會先在http://mankinwong.xyz 更新後不定期上傳github
 
