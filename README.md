@@ -1,5 +1,5 @@
 # TravelMoney_C
-測試版公測 
+此板本為C 語言版本，網頁版請到https://github.com/vincentwongmax/Travel_Money_PHP
 
 ## http://mankinwong.xyz
 
