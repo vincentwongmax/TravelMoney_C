@@ -1,7 +1,6 @@
 # TravelMoney_C
-此板本為C 語言版本，網頁版請到https://github.com/vincentwongmax/Travel_Money_PHP
+此版本為C 語言版本，網頁版請到https://github.com/vincentwongmax/Travel_Money_PHP
 
-## http://mankinwong.xyz
 
 旅行時輸入TOKEN
 方便和計帳
@@ -18,5 +17,5 @@
 1. 介面美化
 2. 修復BUG
 
-最後版本會先在http://mankinwong.xyz 更新後不定期上傳github
+
 
